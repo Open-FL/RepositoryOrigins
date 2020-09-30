@@ -1,0 +1,6 @@
+https://open-fl.github.io/OpenFL.Editor.CorePlugins/latest/info.txt
+https://open-fl.github.io/OpenFL.Editor.Development/latest/info.txt
+https://open-fl.github.io/OpenFL.Editor.InstructionViewer/latest/info.txt
+https://open-fl.github.io/OpenFL.Editor.Repository/latest/info.txt
+https://open-fl.github.io/OpenFL.Editor.ThemeEngine/latest/info.txt
+https://open-fl.github.io/OpenFL.Examples/latest/info.txt
