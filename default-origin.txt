@@ -1,0 +1,3 @@
+https://open-fl.github.io/RepositoryOrigins/open-fl-editor.txt
+https://open-fl.github.io/RepositoryOrigins/open-fl.txt
+https://open-fl.github.io/RepositoryOrigins/plugin-system.txt
